@@ -6,4 +6,4 @@ Thermal Paste
     
 .. raw:: html
 
-   <a href="http://geoiptool.com" target="_blank">check your location here</a>
+   <a href="http://amzn.to/2jROCI4" target="_blank">Arctic Silver 5</a>
