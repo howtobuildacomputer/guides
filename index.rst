@@ -11,3 +11,14 @@ Plans
 HTBAC plans to provide as many build logs as possible, we want to do our best to help anyone and everyone understand what they can do with a computer and how simple it is to put one together.
 
 The first build guide will be the most general one possible. Providing people with a step by step process build their computer.
+
+.. toctree::
+   :maxdepth: 2
+   :caption: About HTBAC
+   support
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Recommended Prodcuts
+
+   recommended
