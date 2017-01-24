@@ -6,10 +6,8 @@ HowToBuildA.Computer is created to be an amazing asset to the computer building 
 
 Please learn and help this community grow, share your knowledge and share HTBAC to anyone and everyone.
 
-***************
 Plans
-***************
-
+******************
 HTBAC plans to provide as many build logs as possible, we want to do our best to help anyone and everyone understand what they can do with a computer and how simple it is to put one together.
 
 The first build guide will be the most general one possible. Providing people with a step by step process build their computer.
