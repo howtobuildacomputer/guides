@@ -1,7 +1,9 @@
 Recommended Products
 ==================
 
-Thermal Past
+Thermal Paste
 ******************
+    
+.. raw:: html
 
-* http://amzn.to/2jROCI4
+   <a href="http://geoiptool.com" target="_blank">check your location here</a>
