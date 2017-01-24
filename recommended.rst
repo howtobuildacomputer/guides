@@ -1,4 +1,4 @@
-Recommended Products
+Recommended Parts
 ==================
 
 Thermal Paste
