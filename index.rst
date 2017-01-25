@@ -19,7 +19,6 @@ The first build guide will be the most general one possible. Providing people wi
    index
    support
 
-
 .. toctree::
    :maxdepth: 2
    :caption: Recommended
