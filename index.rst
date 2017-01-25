@@ -14,13 +14,6 @@ The first build guide will be the most general one possible. Providing people wi
 
 .. toctree::
    :maxdepth: 2
-   :caption: Welcome
-   
-   index
-   support
-
-.. toctree::
-   :maxdepth: 2
    :caption: Recommended
 
    recommended
