@@ -1,12 +1,15 @@
 ========================
-How to Support HTBAC
+Still Need Help?
 ========================
 
-HowToSupportA.Computer is ran and maintained completely by `Justin Pulsifer <https://twitter.com/justinpulsifer>`_ I do my best to make sure guides are accurate and up to date when possible but I am doing this all for free.
+HTBAC is a great resource on how to build a computer but sometimes its nice to interact with people and get there input on a build or an issue that has arisen during a build or maybe something has happened after. Below are links to great tech forums that you can go to and join their community and learn and participate in the tech community.
 
-The best way to support this cause and help me spend more time on HTBAC is to use my affiliate links. Anytime you go to amazon and want to buy anything click this link `here <https://www.amazon.com/?tag=htbac-20>`_. This puts some money in my pocket to help me make this the best site for build guides ever while you are never paying me directly.
+.. raw:: html
 
-Affiliate Links
-******************
-
-* `Amazon <https://www.amazon.com/?tag=htbac-20>`_
+    <ul>
+		<li><a href="https://forums.anandtech.com/" target="_blank">Anandtech</a></li>
+		<li><a href="http://arstechnica.com/civis/" target="_blank">Ars Technica</a></li>
+        <li><a href="https://forum.crit.tv/" target="_blank">Crit</a></li>
+        <li><a href="http://www.hardwarecanucks.com/forum/" target="_blank">Hardware Canucks</a></li>
+		<li><a href="https://forum.level1techs.com/" target="_blank">Level One Techs</a></li>
+    </ul>
