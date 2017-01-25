@@ -12,8 +12,29 @@ HTBAC plans to provide as many build logs as possible, we want to do our best to
 
 The first build guide will be the most general one possible. Providing people with a step by step process build their computer.
 
+.. _welcome:
+
 .. toctree::
    :maxdepth: 2
-   :caption: Recommended
+   :caption: Welcome
+
+   about
+   support
+   need-help
+
+.. _guides:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Guides
+
+   guide-starter
+   guide-videos
+
+.. _recommended:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Recommended Products
 
    recommended
