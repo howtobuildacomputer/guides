@@ -1,6 +1,6 @@
-============
+========================
 How to Support HTBAC
-============
+========================
 
 HowToSupportA.Computer is ran and maintained completely by `Justin Pulsifer <https://twitter.com/justinpulsifer>`_ I do my best to make sure guides are accurate and up to date when possible but I am doing this all for free.
 
